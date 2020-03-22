@@ -1,0 +1,6 @@
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\obj\Debug\Praktikum3.csprojAssemblyReference.cache
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\bin\Debug\Praktikum3.pdb
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+I:\KULIAH\SEMESTER 2\Pemrograman\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
